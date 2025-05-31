@@ -5,7 +5,7 @@ import io
 
 # Configuración de la página - AÑADIR ESTO AL INICIO
 st.set_page_config(
-    page_title="Consolidador de Clientes Claro",  # Cambia este texto al nombre que desees
+    page_title="Unir Archivos",  # Cambia este texto al nombre que desees
     page_icon="📱",  # Puedes usar emojis o rutas a imágenes
     layout="wide",  # Opciones: "centered" o "wide"
     initial_sidebar_state="expanded"  # Opciones: "auto", "expanded", "collapsed"
